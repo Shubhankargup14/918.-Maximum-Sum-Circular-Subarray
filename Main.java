@@ -1,4 +1,4 @@
-class Solution {
+class MaximumSumCircularSubarray {
     public int maxSubarraySumCircular(int[] nums) {
         int max=Integer.MIN_VALUE;
         int min=Integer.MAX_VALUE;
